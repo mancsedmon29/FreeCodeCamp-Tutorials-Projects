@@ -12,6 +12,3 @@ This article will teach you how to make a beautiful, responsive portfolio websit
 - **CSS Styling**: Learn how to style your website using contemporary CSS techniques, such as responsive layouts, typography, colors, and animations.
 - **JavaScript Interactivity**: Use JavaScript to incorporate scroll effects, form validation, navigation menus, and other dynamic behaviors into your website.
 - **Responsive Design**: Make sure your portfolio website uses responsive design concepts to look fantastic and work flawlessly on a range of screens and devices.
-
-## Get Started
-Are you prepared to build a gorgeous website for your portfolio? To advance your frontend development abilities and present your work to the public, clone this repository and adhere to the detailed tutorials!
