@@ -1,3 +1,3 @@
-# FreeCodeCamp-Tutorial Projects
+# FreeCodeCamp-Tutorial Projects by Edmon Mancao
 
-In this my github, all the project I've watched every tutorial include of my project I followed by the tutorial video project as my part of my learning.
+In my GitHub, all the projects I've watched every tutorial including my project followed by the tutorial video project as part of my learning.
